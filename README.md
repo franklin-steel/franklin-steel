@@ -1,20 +1,20 @@
-# Olá, eu sou o Franklin 👋
+# Hi, I'm Franklin 👋
 
-Desenvolvedor JavaScript focado em criação de **Add-ons para Minecraft Bedrock Edition**.
+JavaScript developer focused on creating **Add-ons for Minecraft Bedrock Edition**.
 
-## Sobre mim
+## About me
 
-- 🎮 Criador de add-ons e comportamentos customizados para Minecraft
-- 💻 Trabalhando com JavaScript e as APIs do Minecraft Bedrock
-- 🎯 Aprendendo desenvolvimento de jogos com Unity e Godot
-- 🏢 Fundador da **Butterfly Games**
+- 🎮 Creator of add-ons and custom behaviors for Minecraft
+- 💻 Working with JavaScript and Minecraft Bedrock APIs
+- 🎯 Learning game development with Unity and Godot
+- 🏢 Founder of **Butterfly Games**
 
-## Tecnologias
+## Technologies
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)](https://learn.microsoft.com/pt-br/minecraft/creator/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)](https://learn.microsoft.com/en-us/minecraft/creator/)
 
-## Contato
+## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/franklin-steel)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](SEU_LINK_YOUTUBE)
