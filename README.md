@@ -6,12 +6,13 @@ Desenvolvedor JavaScript focado em criação de **Add-ons para Minecraft Bedrock
 
 - 🎮 Criador de add-ons e comportamentos customizados para Minecraft
 - 💻 Trabalhando com JavaScript e as APIs do Minecraft Bedrock
+- 🎯 Aprendendo desenvolvimento de jogos com Unity e Godot
 - 🏢 Fundador da **Butterfly Games**
 
 ## Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)](https://learn.microsoft.com/pt-br/minecraft/creator/)
 
 ## Contato
 
