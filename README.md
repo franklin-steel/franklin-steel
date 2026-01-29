@@ -6,7 +6,7 @@ Desenvolvedor JavaScript focado em criação de **Add-ons para Minecraft Bedrock
 
 - 🎮 Criador de add-ons e comportamentos customizados para Minecraft
 - 💻 Trabalhando com JavaScript e as APIs do Minecraft Bedrock
-- 🏢 Fundador da **Vatonage Studios**
+- 🏢 Fundador da **Butterfly Games**
 
 ## Tecnologias
 
