@@ -9,6 +9,9 @@ JavaScript developer focused on creating **Add-ons for Minecraft Bedrock Edition
 - 🎯 Learning game development with Unity and Godot
 - 🏢 Founder of **Butterfly Games**
 
+
+Learn how to develop your Minecraft Bedrock games using the Feynman method: https://franklinsteel.dev
+
 ## Technologies
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
